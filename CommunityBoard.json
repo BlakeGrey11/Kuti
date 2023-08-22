@@ -1,7 +1,7 @@
 {
   "FeaturedPlayer": {
     "Id": 69,
-    "TitleOverride": "Featured Lack of Player",
+    "TitleOverride": "OpenRec2020!",
     "UrlOverride": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   "FeaturedRoomGroup": {
@@ -20,8 +20,8 @@
     ]
   },
   "CurrentAnnouncement": {
-    "Message": "i havent updated this in a while lol, click on the button for idk a cookie -->",
-    "MoreInfoUrl": "https://www.youtube.com/watch?v=UdwPh7qdwhM"
+    "Message": "Welcome to OpenRec2020 Join the discord! -->>",
+    "MoreInfoUrl": "https://discord.gg/phjqdqG9tp"
   },
   "InstagramImages": [
     {
@@ -77,10 +77,10 @@
   "Videos": [
     {
       "BlobName": "real.mp4",
-      "Title": "CoffeeVault for 2022???",
-      "Description": "REAL!??!?!",
+      "Title": "A ass rro",
+      "Description": "fucking hate rr",
       "ThumbnailBlobName": "IDK.png",
-      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      "SourceUrl": "https://www.youtube.com/watch?v=VsiaF8b5bV4&ab_channel=RecRoom"
     },
     {
       "BlobName": "u.webm",
